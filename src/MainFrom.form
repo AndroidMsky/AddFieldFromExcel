@@ -37,7 +37,7 @@
           <component id="39d8d" class="javax.swing.JButton" binding="button1" default-binding="true">
             <constraints border-constraint="South"/>
             <properties>
-              <text value="Button"/>
+              <text value="确定"/>
             </properties>
           </component>
           <scrollpane id="55cea">

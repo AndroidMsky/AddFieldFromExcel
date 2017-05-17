@@ -30,7 +30,7 @@ public class MainFrom extends JDialog {
         setContentPane(JP);
         setModal(true);
         //getRootPane().setDefaultButton(button1);
-        setTitle("input:");
+        setTitle("AddFieldFromExcel By Msky");
         this.onClickListener = onClickListener;
 
         //mButtonOK.addActionListener(e -> onOK());
