@@ -1,7 +1,7 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
-  <version>1.0</version>
+  <id>com.android.msky.addfieldfromexcel</id>
+  <name>AddFieldFromExcel</name>
+  <version>0.9</version>
   <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
 
   <description><![CDATA[
